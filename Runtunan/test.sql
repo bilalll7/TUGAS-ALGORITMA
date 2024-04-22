@@ -1,0 +1,1 @@
+DELETE FROM Kenangan WHERE NAME LIKE '%L%'
